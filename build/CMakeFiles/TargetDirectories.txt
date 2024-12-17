@@ -1,0 +1,9 @@
+C:/LAB_7/build/CMakeFiles/lab7.dir
+C:/LAB_7/build/CMakeFiles/package.dir
+C:/LAB_7/build/CMakeFiles/package_source.dir
+C:/LAB_7/build/CMakeFiles/edit_cache.dir
+C:/LAB_7/build/CMakeFiles/rebuild_cache.dir
+C:/LAB_7/build/CMakeFiles/list_install_components.dir
+C:/LAB_7/build/CMakeFiles/install.dir
+C:/LAB_7/build/CMakeFiles/install/local.dir
+C:/LAB_7/build/CMakeFiles/install/strip.dir
